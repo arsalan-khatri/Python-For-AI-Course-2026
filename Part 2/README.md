@@ -2,9 +2,6 @@
 
 Welcome to the **Part 2** of the *Python for AI* series. In this repository, we move beyond the basics and focus on **Automation and Logic Building**—the core skills required to build AI Agents and Chatbots.
 
-> **Watch the Full Tutorial:** [Link to your YouTube Video]  
-> **Previous Part:** [Link to Part 1 Repository/Video]
-
 ---
 
 ## What You Will Learn
@@ -36,12 +33,3 @@ By combining all the concepts above, we built a **Smart Quiz Bot**.
   - Handles invalid inputs safely.
 
 ---
-
-## Repository Structure
-```text
-├── Part 1 - Basics/          # Variables & Lists (From previous video)
-├── Part 2 - Automation/      # Dictionaries, Loops, & Logic (This video)
-│   ├── dictionary_examples.py
-│   ├── loops_automation.py
-│   └── quiz_bot_project.py   # Final Project Code
-└── README.md
