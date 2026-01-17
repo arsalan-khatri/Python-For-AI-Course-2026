@@ -1,7 +1,6 @@
 # Python for AI - Part 1: The Foundation (Basics)
 
-**Instructor:** Arsalan Khatri (AK Deep Knowledge)  
-**Topic:** Python Basics & Rule-Based Logic  
+**Topic:** Python Basics & Rule-Based Logic
 
 ---
 
@@ -18,4 +17,5 @@ Coding ratta lagane ka naam nahi hai, bas **Data ko Store karna** aur **Logic la
 5.  **F-Strings:** Data ko sentence ke beech mein fit karna.
 
 ---
+
 
