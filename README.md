@@ -20,7 +20,7 @@ We move away from "Manual Coding" (doing things line-by-line) and embrace "Smart
 ## Part 1: The Foundation (The Skeleton)
 In the first part of this series, we focused on building the structural base of Python. Just like a building needs a strong foundation, AI needs a strong grasp of data storage.
 
-### 🔹 Key Concepts Covered:
+### Key Concepts Covered:
 * **Variables (Data Containers):** We learned how to store information (like names, numbers, or sentences) inside computer memory so we can use it later.
 * **Data Types:** Understanding the difference between Text (Strings), Numbers (Integers), and Decimals (Floats).
 * **Lists (Ordered Storage):** We explored how to store multiple items (like a list of skills or student names) in a single container. We learned that Lists rely on "Indexing" (Numbering 0, 1, 2...) to find data.
