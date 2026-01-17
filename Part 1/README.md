@@ -19,7 +19,3 @@ Coding ratta lagane ka naam nahi hai, bas **Data ko Store karna** aur **Logic la
 
 ---
 
-## Code Examples
-
-### 1. Variables & Inputs
-Computer se naam puchna aur save karna.
