@@ -1,6 +1,6 @@
 # Python for AI - Course 2026 (Part 2)
 
-Welcome to the **Part 2** of the *Python for AI* series. In this repository, we move beyond the basics and focus on **Automation and Logic Building**—the core skills required to build AI Agents and Chatbots.
+Welcome to the **Part 2** of the *Python for AI* series. In this repository, we move beyond the basics and focus on **Automation and Logic Building** the core skills required to build AI Agents and Chatbots.
 
 ---
 
