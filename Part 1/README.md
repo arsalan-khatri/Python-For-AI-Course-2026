@@ -1,52 +1,25 @@
-# Task 1: Machine Learning Project 🤖
+# Python for AI - Part 1: The Foundation (Basics)
 
-## 📌 Project Overview
-This repository contains the solution for **Task 1** of my AI/ML Internship. The goal of this project was to build a Machine Learning model to analyze the dataset and make predictions based on the given features.
+**Instructor:** Arsalan Khatri (AK Deep Knowledge)  
+**Topic:** Python Basics & Rule-Based Logic  
 
-**Notebook File:** [task1.ipynb](task1/task1.ipynb)
+---
 
-## 📂 Dataset Details
-- **Source:** [Kaggle / Internship Provider]
-- **Target Variable:** The model predicts `[Yahan likhein kya predict kiya: e.g., Survival Status / Flower Species / Price]`
-- **Key Features:** The dataset includes features like `[Column Names e.g., Age, Gender, Income, etc.]`.
+## About This Part
+Is video mein humne Python ka **"Skeleton" (Dhancha)** banaya hai. Humne wo **20% important cheezein** seekhi hain jo AI seekhne ke liye 80% kaam aati hain.
 
-## 🛠️ Tech Stack Used
-- **Python** (Core Language)
-- **Pandas** (Data Manipulation)
-- **NumPy** (Numerical Operations)
-- **Matplotlib & Seaborn** (Data Visualization)
-- **Scikit-Learn** (Machine Learning Modeling)
+Coding ratta lagane ka naam nahi hai, bas **Data ko Store karna** aur **Logic lagana** aana chahiye.
 
-## ⚙️ Steps Implemented in this Task
-In this notebook, I have performed the following steps:
+### What We Covered:
+1.  **Variables:** Data ko memory mein save karna (Container).
+2.  **Data Types:** Strings (Text), Integers (Numbers), Floats (Points).
+3.  **Lists:** Ek hi box mein bohot saara data rakhna.
+4.  **Input/Output:** Computer se baat karna aur jawab lena.
+5.  **F-Strings:** Data ko sentence ke beech mein fit karna.
 
-1.  **Data Loading & Inspection**:
-    - Loaded the dataset using Pandas.
-    - Checked for missing values and data types.
+---
 
-2.  **Data Preprocessing**:
-    - Handled missing values (Imputation/Removal).
-    - Encoded categorical variables (converted text to numbers).
-    - Scaled features for better model performance.
+## Code Examples
 
-3.  **Exploratory Data Analysis (EDA)**:
-    - Visualized correlations using Heatmaps.
-    - Analyzed feature distributions using Histograms/Boxplots.
-
-4.  **Model Building**:
-    - Split the data into **Training** and **Testing** sets.
-    - Trained the model using **[Model Name e.g., Logistic Regression / Decision Tree]**.
-
-5.  **Model Evaluation**:
-    - Evaluated performance using **Accuracy Score**, **Precision**, and **Recall**.
-    - Generated a Confusion Matrix to visualize predictions.
-
-## 📊 Results
-- **Model Used:** [e.g., Logistic Regression]
-- **Accuracy Achieved:** [e.g., 85%]
-- **Key Insight:** [Ek line likhein jo data se pata chali, e.g., "Gender had the highest impact on survival rate."]
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/arsalan-khatri/AI-ML-internship-tasks.git](https://github.com/arsalan-khatri/AI-ML-internship-tasks.git)
+### 1. Variables & Inputs
+Computer se naam puchna aur save karna.
